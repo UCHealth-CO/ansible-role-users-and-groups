@@ -1,0 +1,9 @@
+---
+  galaxy_info:
+    role_name: ansible-role-users-and-groups
+    author: UC Health
+    description: Ansible role to manage users and groups
+    company: UC Health
+  collections: []
+  dependencies: []
+...
